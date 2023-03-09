@@ -21,7 +21,7 @@ b {
     height: 200px;
     border-bottom: 1px solid #000;
     margin: auto;
-    background-image: url(/img/250.jpg);
+    background-image: url(img/250.jpg);
     background-repeat: no-repeat;
 }
 
